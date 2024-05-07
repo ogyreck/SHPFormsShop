@@ -210,11 +210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "D:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectPath": "D:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\FinalProject\\FinalProject\\obj\\",
+      "outputPath": "D:\\Git\\SHPFormsShop\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
