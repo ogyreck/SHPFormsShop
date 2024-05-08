@@ -33,23 +33,30 @@
 			cardPicture = new PictureBox();
 			CostCard = new Label();
 			label1 = new Label();
+			flowLayoutPanel1 = new FlowLayoutPanel();
 			((System.ComponentModel.ISupportInitialize)cardPicture).BeginInit();
+			flowLayoutPanel1.SuspendLayout();
 			SuspendLayout();
 			// 
 			// NameCard
 			// 
 			NameCard.AutoSize = true;
-			NameCard.Font = new Font("Segoe UI", 10F);
-			NameCard.Location = new Point(25, 33);
+			NameCard.Dock = DockStyle.Fill;
+			NameCard.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 204);
+			NameCard.Location = new Point(3, 0);
 			NameCard.Name = "NameCard";
-			NameCard.Size = new Size(116, 19);
+			NameCard.Size = new Size(99, 15);
 			NameCard.TabIndex = 0;
 			NameCard.Text = "Название товара";
+			NameCard.Click += NameCard_Click;
 			// 
 			// BuyBtn
 			// 
 			BuyBtn.BackColor = Color.IndianRed;
 			BuyBtn.Dock = DockStyle.Bottom;
+			BuyBtn.FlatStyle = FlatStyle.Popup;
+			BuyBtn.Font = new Font("Yu Gothic UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
+			BuyBtn.ForeColor = SystemColors.ButtonHighlight;
 			BuyBtn.Location = new Point(0, 284);
 			BuyBtn.Name = "BuyBtn";
 			BuyBtn.Size = new Size(232, 35);
@@ -60,18 +67,19 @@
 			// 
 			// cardPicture
 			// 
-			cardPicture.Location = new Point(25, 73);
+			cardPicture.Location = new Point(25, 105);
 			cardPicture.Name = "cardPicture";
-			cardPicture.Size = new Size(189, 177);
+			cardPicture.Size = new Size(189, 145);
 			cardPicture.SizeMode = PictureBoxSizeMode.StretchImage;
 			cardPicture.TabIndex = 2;
 			cardPicture.TabStop = false;
+			cardPicture.Click += cardPicture_Click;
 			// 
 			// CostCard
 			// 
 			CostCard.AutoSize = true;
 			CostCard.Font = new Font("Segoe UI", 15F);
-			CostCard.Location = new Point(39, 253);
+			CostCard.Location = new Point(48, 253);
 			CostCard.Name = "CostCard";
 			CostCard.Size = new Size(45, 28);
 			CostCard.TabIndex = 3;
@@ -81,26 +89,39 @@
 			// 
 			label1.AutoSize = true;
 			label1.Font = new Font("Segoe UI", 15F);
-			label1.Location = new Point(107, 253);
+			label1.Location = new Point(118, 253);
 			label1.Name = "label1";
-			label1.Size = new Size(79, 28);
+			label1.Size = new Size(46, 28);
 			label1.TabIndex = 4;
-			label1.Text = "рублей";
+			label1.Text = "руб";
+			// 
+			// flowLayoutPanel1
+			// 
+			flowLayoutPanel1.Controls.Add(NameCard);
+			flowLayoutPanel1.Location = new Point(25, 22);
+			flowLayoutPanel1.Name = "flowLayoutPanel1";
+			flowLayoutPanel1.Size = new Size(189, 77);
+			flowLayoutPanel1.TabIndex = 5;
+			flowLayoutPanel1.Paint += flowLayoutPanel1_Paint;
 			// 
 			// ShopCard
 			// 
 			AutoScaleDimensions = new SizeF(7F, 15F);
 			AutoScaleMode = AutoScaleMode.Font;
-			BackColor = SystemColors.Info;
+			BackColor = SystemColors.GradientInactiveCaption;
+			Controls.Add(flowLayoutPanel1);
 			Controls.Add(label1);
 			Controls.Add(CostCard);
 			Controls.Add(cardPicture);
 			Controls.Add(BuyBtn);
-			Controls.Add(NameCard);
 			Margin = new Padding(10);
 			Name = "ShopCard";
 			Size = new Size(232, 319);
+			Load += ShopCard_Load;
+			Click += ShopCard_Click;
 			((System.ComponentModel.ISupportInitialize)cardPicture).EndInit();
+			flowLayoutPanel1.ResumeLayout(false);
+			flowLayoutPanel1.PerformLayout();
 			ResumeLayout(false);
 			PerformLayout();
 		}
@@ -112,5 +133,6 @@
 		private PictureBox cardPicture;
 		private Label CostCard;
 		private Label label1;
+		private FlowLayoutPanel flowLayoutPanel1;
 	}
 }
