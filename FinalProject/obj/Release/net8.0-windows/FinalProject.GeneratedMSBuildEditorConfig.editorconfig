@@ -14,6 +14,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FinalProject
+<<<<<<< HEAD
 build_property.ProjectDir = E:\Git\SHPFormsShop\FinalProject\
+=======
+build_property.ProjectDir = D:\Git\SHPFormsShop\FinalProject\
+>>>>>>> 51dc894d1e9d9af4033d164ff7b6fb5d29f9a09e
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

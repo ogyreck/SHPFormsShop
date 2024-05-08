@@ -1,7 +1,37 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "E:\\Git\\SHPFormsShop\\",
   "Documents": [],
+=======
+  "WorkspaceRootPath": "D:\\Git\\SHPFormsShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|d:\\git\\shpformsshop\\finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|d:\\git\\shpformsshop\\finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|d:\\git\\shpformsshop\\finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|d:\\git\\shpformsshop\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|d:\\git\\shpformsshop\\finalproject\\model\\shopcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\model\\shopcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|d:\\git\\shpformsshop\\finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+>>>>>>> 51dc894d1e9d9af4033d164ff7b6fb5d29f9a09e
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +39,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+=======
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
+              "ToolTip": "D:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "FinalProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:57:40.858Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "D:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ProductForm.cs",
+              "ToolTip": "D:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs",
+              "RelativeToolTip": "FinalProject\\ProductForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:43:55.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopCardModel.cs",
+              "DocumentMoniker": "D:\\Git\\SHPFormsShop\\FinalProject\\Model\\ShopCardModel.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Model\\ShopCardModel.cs",
+              "ToolTip": "D:\\Git\\SHPFormsShop\\FinalProject\\Model\\ShopCardModel.cs",
+              "RelativeToolTip": "FinalProject\\Model\\ShopCardModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:31:40.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ProductForm.cs",
+              "ToolTip": "D:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "FinalProject\\ProductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:22:42.027Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopCard.cs",
+              "DocumentMoniker": "D:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ShopCard.cs",
+              "ToolTip": "D:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs",
+              "RelativeToolTip": "FinalProject\\ShopCard.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwCcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:14:43.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopCard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ShopCard.cs",
+              "ToolTip": "D:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "FinalProject\\ShopCard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:13:00.947Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+>>>>>>> 51dc894d1e9d9af4033d164ff7b6fb5d29f9a09e
             }
           ]
         }
