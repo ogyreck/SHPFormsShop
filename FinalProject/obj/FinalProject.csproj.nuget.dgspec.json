@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "E:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "E:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
         "outputPath": "E:\\Git\\SHPFormsShop\\FinalProject\\obj\\",
-=======
-    "D:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj": {}
-  },
-  "projects": {
-    "D:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj",
-        "projectName": "FinalProject",
-        "projectPath": "D:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\SHPFormsShop\\FinalProject\\obj\\",
->>>>>>> 51dc894d1e9d9af4033d164ff7b6fb5d29f9a09e
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

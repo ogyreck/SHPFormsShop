@@ -29,7 +29,7 @@
 		private void InitializeComponent()
 		{
 			label1 = new Label();
-			button1 = new Button();
+			btnOpenBasket = new Button();
 			btnLoad = new Button();
 			cardPanel = new Panel();
 			SuspendLayout();
@@ -46,16 +46,17 @@
 			label1.TabIndex = 0;
 			label1.Text = "Интернет магазин ";
 			// 
-			// button1
+			// btnOpenBasket
 			// 
-			button1.Dock = DockStyle.Top;
-			button1.Font = new Font("Yu Gothic UI Semibold", 12F);
-			button1.Location = new Point(173, 0);
-			button1.Name = "button1";
-			button1.Size = new Size(1111, 40);
-			button1.TabIndex = 1;
-			button1.Text = "Корзина ";
-			button1.UseVisualStyleBackColor = true;
+			btnOpenBasket.Dock = DockStyle.Top;
+			btnOpenBasket.Font = new Font("Yu Gothic UI Semibold", 12F);
+			btnOpenBasket.Location = new Point(173, 0);
+			btnOpenBasket.Name = "btnOpenBasket";
+			btnOpenBasket.Size = new Size(1111, 40);
+			btnOpenBasket.TabIndex = 1;
+			btnOpenBasket.Text = "Корзина ";
+			btnOpenBasket.UseVisualStyleBackColor = true;
+			btnOpenBasket.Click += btnOpenBasket_Click;
 			// 
 			// btnLoad
 			// 
@@ -83,7 +84,7 @@
 			ClientSize = new Size(1284, 681);
 			Controls.Add(cardPanel);
 			Controls.Add(btnLoad);
-			Controls.Add(button1);
+			Controls.Add(btnOpenBasket);
 			Controls.Add(label1);
 			FormBorderStyle = FormBorderStyle.FixedSingle;
 			Name = "Form1";
@@ -96,7 +97,7 @@
 		#endregion
 
 		private Label label1;
-		private Button button1;
+		private Button btnOpenBasket;
 		private Button btnLoad;
 		private Panel cardPanel;
 	}

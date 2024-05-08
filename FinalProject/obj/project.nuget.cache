@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "kBX97acACWbwVowir54VsGkUWhbCjdan0S8F9dkyjIy990brjh64zW5223qaEdmUDDle5FwXhFckBq/oDtbgMA==",
   "success": true,
   "projectFilePath": "E:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj",
-=======
-  "dgSpecHash": "623zS4uLzpCbpKjalXprdQW4J4MsXC5bnpKqEagiaILMKkjM6RfH6xmv7Z7q3hBj2db5YyMhVRBpcAR97394MQ==",
-  "success": true,
-  "projectFilePath": "D:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj",
->>>>>>> 51dc894d1e9d9af4033d164ff7b6fb5d29f9a09e
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",

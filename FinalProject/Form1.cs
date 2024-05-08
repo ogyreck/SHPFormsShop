@@ -10,9 +10,7 @@ namespace FinalProject
 
 		public Form1()
 		{
-			test.title = "123";
-			test.description = "133";
-			test.price = 123.123;
+
 			InitializeComponent();
 			GetShopData();
 			cardPanel.AutoScroll = true;
@@ -51,6 +49,13 @@ namespace FinalProject
 		private void Form1_Load(object sender, EventArgs e)
 		{
 
+		}
+
+		private void btnOpenBasket_Click(object sender, EventArgs e)
+		{
+			BasketForm basketForm = new BasketForm();
+			basketForm.ShowDialog();
+			
 		}
 	}
 }

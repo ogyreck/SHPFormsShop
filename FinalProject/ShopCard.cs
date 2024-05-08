@@ -1,4 +1,5 @@
-﻿using FinalProject.Model;
+﻿using FinalProject.BL;
+using FinalProject.Model;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,6 +14,7 @@ namespace FinalProject
 {
 	public partial class ShopCard : UserControl
 	{
+		
 
 		private readonly ShopCardModel _shopCardModel;
 		private ProductForm productForm;
@@ -32,7 +34,13 @@ namespace FinalProject
 		
 		private void BuyBtn_Click(object sender, EventArgs e)
 		{
-			MessageBox.Show($"Вы купили {_shopCardModel.title}");
+			bool stateBtn = basketShop.AddBasketItem(_shopCardModel);
+			if (stateBtn)
+			{
+				BuyBtn.Text = "В корзине";
+				BuyBtn.BackColor = Color.Green;
+			}
+
 		}
 
 		private void NameCard_Click(object sender, EventArgs e)

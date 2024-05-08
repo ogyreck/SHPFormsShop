@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FinalProject.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,5 +11,6 @@ namespace FinalProject.DAL
 	{
 		public static string apiString = "https://fakestoreapi.com/products/";
 
+		
     }
 }
