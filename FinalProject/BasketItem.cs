@@ -32,5 +32,11 @@ namespace FinalProject
 			DisplayElements.ShowBasketItem(basketShop.GetBasketData());
 
 		}
+
+		private void openProductFrom(object sender, EventArgs e)
+		{
+			ProductForm productForm = new ProductForm(_shopCardModel);
+			productForm.ShowDialog();
+		}
 	}
 }

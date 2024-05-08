@@ -46,6 +46,7 @@
 			itemPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
 			itemPictureBox.TabIndex = 0;
 			itemPictureBox.TabStop = false;
+			itemPictureBox.Click += openProductFrom;
 			// 
 			// flowLayoutPanel1
 			// 
@@ -55,6 +56,7 @@
 			flowLayoutPanel1.Name = "flowLayoutPanel1";
 			flowLayoutPanel1.Size = new Size(337, 69);
 			flowLayoutPanel1.TabIndex = 1;
+			flowLayoutPanel1.Click += openProductFrom;
 			// 
 			// itemName
 			// 
@@ -66,6 +68,7 @@
 			itemName.Size = new Size(141, 20);
 			itemName.TabIndex = 0;
 			itemName.Text = "Навзвание товара ";
+			itemName.Click += openProductFrom;
 			// 
 			// btnDel
 			// 
@@ -89,6 +92,7 @@
 			itemCost.Size = new Size(60, 19);
 			itemCost.TabIndex = 3;
 			itemCost.Text = "1200.99";
+			itemCost.Click += openProductFrom;
 			// 
 			// label1
 			// 
@@ -100,6 +104,7 @@
 			label1.Size = new Size(32, 19);
 			label1.TabIndex = 4;
 			label1.Text = "руб";
+			label1.Click += openProductFrom;
 			// 
 			// BasketItem
 			// 
@@ -113,6 +118,7 @@
 			Controls.Add(itemPictureBox);
 			Name = "BasketItem";
 			Size = new Size(745, 98);
+			Click += openProductFrom;
 			((System.ComponentModel.ISupportInitialize)itemPictureBox).EndInit();
 			flowLayoutPanel1.ResumeLayout(false);
 			flowLayoutPanel1.PerformLayout();
