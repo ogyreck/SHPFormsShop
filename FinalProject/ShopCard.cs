@@ -14,7 +14,7 @@ namespace FinalProject
 {
 	public partial class ShopCard : UserControl
 	{
-		
+
 
 		private readonly ShopCardModel _shopCardModel;
 		private ProductForm productForm;
@@ -32,9 +32,9 @@ namespace FinalProject
 
 		}
 
-		
 		private void BuyBtn_Click(object sender, EventArgs e)
 		{
+			
 			basketShop.AddBasketItem(_shopCardModel);
 			ChekBasket();
 
@@ -77,6 +77,11 @@ namespace FinalProject
 		private void cardPicture_Click(object sender, EventArgs e)
 		{
 			productForm.ShowDialog();
+		}
+
+		private void CostCard_Click(object sender, EventArgs e)
+		{
+
 		}
 	}
 }

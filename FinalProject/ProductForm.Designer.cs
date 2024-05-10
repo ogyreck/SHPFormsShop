@@ -85,10 +85,10 @@
 			// 
 			nameProduct.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
 			nameProduct.AutoSize = true;
-			nameProduct.Font = new Font("Sans Serif Collection", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+			nameProduct.Font = new Font("Microsoft Sans Serif", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
 			nameProduct.Location = new Point(3, 0);
 			nameProduct.Name = "nameProduct";
-			nameProduct.Size = new Size(198, 32);
+			nameProduct.Size = new Size(138, 16);
 			nameProduct.TabIndex = 0;
 			nameProduct.Text = "Название товара";
 			nameProduct.TextAlign = ContentAlignment.MiddleCenter;
@@ -166,7 +166,7 @@
 			productBuyBtn.Name = "productBuyBtn";
 			productBuyBtn.Size = new Size(341, 153);
 			productBuyBtn.TabIndex = 7;
-			productBuyBtn.Text = "В корзину\r\n";
+			productBuyBtn.Text = "Купить";
 			productBuyBtn.UseVisualStyleBackColor = false;
 			productBuyBtn.Click += productBuyBtn_Click;
 			// 

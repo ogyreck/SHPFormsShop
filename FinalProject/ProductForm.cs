@@ -1,4 +1,5 @@
-﻿using FinalProject.Model;
+﻿using FinalProject.BL;
+using FinalProject.Model;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -24,11 +25,35 @@ namespace FinalProject
 			productPictureBox.LoadAsync(_shopCardModel.image);
 			productCategory.Text = _shopCardModel.category;
 			productDescript.Text = _shopCardModel.description;
+
+			Shown += ProductForm_Shown;
+			FormClosed += ProductForm_FormClosed;
+		}
+
+		private void ProductForm_FormClosed(object? sender, FormClosedEventArgs e)
+		{
+		    ///Баг, при закрытии формы не обновляются главная страница 
+			//DisplayElements.ShowMainItemsData();
+		}
+
+		private void ProductForm_Shown(object? sender, EventArgs e)
+		{
+			if (basketShop.ContainsInBasket(_shopCardModel))
+			{
+				productBuyBtn.BackColor = Color.Green;
+				productBuyBtn.Text = "В корзине";
+			}
 		}
 
 		private void productBuyBtn_Click(object sender, EventArgs e)
 		{
-			MessageBox.Show($"Вы купили {_shopCardModel.title}");
+			
+			basketShop.AddBasketItem(_shopCardModel);
+			if (basketShop.ContainsInBasket(_shopCardModel))
+			{
+				productBuyBtn.BackColor = Color.Green;
+				productBuyBtn.Text = "В корзине";
+			}
 		}
 	}
 }

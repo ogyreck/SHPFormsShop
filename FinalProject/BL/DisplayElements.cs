@@ -7,9 +7,7 @@ using System.Threading.Tasks;
 
 namespace FinalProject.BL
 {
-	/// <summary>
-	/// Возможно надо передлать на статик?
-	/// </summary>
+
 	public static class DisplayElements
 	{
 		public static Panel? panelInBasket {  get; set; }
@@ -40,8 +38,6 @@ namespace FinalProject.BL
 
 		}
 
-
-		//Переделать это не в статик 
 		public static void ShowMainItemsData(List<ShopCardModel> data)
 		{
 			int marginLeft = 0;

@@ -18,6 +18,7 @@ namespace FinalProject
 			
 			cardPanel.AutoScroll = true;
 			
+
 		}
 
 
@@ -25,10 +26,12 @@ namespace FinalProject
 		{
 			JsonData jsonData = new JsonData();
 			_shopData = await jsonData.GetData();
+			DisplayElements.ShowMainItemsData(_shopData);
+
 		}
 		private void btnLoad_Click(object sender, EventArgs e)
 		{
-			DisplayElements.ShowMainItemsData(_shopData);
+			
 			btnLoad.Enabled = false;
 
 		}
@@ -50,6 +53,11 @@ namespace FinalProject
 		private void BasketForm_FormClosed(object? sender, FormClosedEventArgs e)
 		{
 			DisplayElements.ShowMainItemsData(_shopData);
+		}
+
+		public List<ShopCardModel> GetCurrencyData()
+		{
+			return _shopData;
 		}
 	}
 }

@@ -77,21 +77,23 @@
 			// 
 			// CostCard
 			// 
+			CostCard.Anchor = AnchorStyles.Right;
 			CostCard.AutoSize = true;
-			CostCard.Font = new Font("Segoe UI", 15F);
-			CostCard.Location = new Point(48, 253);
+			CostCard.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 204);
+			CostCard.Location = new Point(63, 259);
 			CostCard.Name = "CostCard";
-			CostCard.Size = new Size(45, 28);
+			CostCard.Size = new Size(37, 21);
 			CostCard.TabIndex = 3;
 			CostCard.Text = "999";
+			CostCard.Click += CostCard_Click;
 			// 
 			// label1
 			// 
 			label1.AutoSize = true;
-			label1.Font = new Font("Segoe UI", 15F);
-			label1.Location = new Point(118, 253);
+			label1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 204);
+			label1.Location = new Point(116, 259);
 			label1.Name = "label1";
-			label1.Size = new Size(46, 28);
+			label1.Size = new Size(36, 21);
 			label1.TabIndex = 4;
 			label1.Text = "руб";
 			// 
