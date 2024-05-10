@@ -19,7 +19,7 @@ namespace FinalProject
 		public BasketForm()
 		{
 			InitializeComponent();
-			DisplayElements.panel = itemsBasketPanel;
+			DisplayElements.panelInBasket = itemsBasketPanel;
 			itemsBasketPanel.AutoScroll = true;
 			DisplayElements.ShowBasketItem(basketShop.GetBasketData());
 		}

@@ -12,18 +12,19 @@ namespace FinalProject.BL
 	/// </summary>
 	public static class DisplayElements
 	{
-		public static Panel? panel {  get; set; } 
+		public static Panel? panelInBasket {  get; set; }
+		public static Panel? panelInMainForms { get; set; }
 
 		public static void ShowBasketItem(List<ShopCardModel> basketItems)
 		{
 			int marginTop = 0;
-			panel.Controls.Clear();
+			panelInBasket.Controls.Clear();
 			if (basketItems.Count == 0)
 			{
 				Label emptyBasket = new Label();
 				emptyBasket.Text = "Корзина пуста";
-				emptyBasket.Location = new Point(panel.Width / 2, panel.Height / 2);
-				panel.Controls.Add(emptyBasket);
+				emptyBasket.Location = new Point(panelInBasket.Width / 2, panelInBasket.Height / 2);
+				panelInBasket.Controls.Add(emptyBasket);
 			}
 			else
 			{
@@ -32,11 +33,35 @@ namespace FinalProject.BL
 				{
 					BasketItem basketItem = new BasketItem(item);
 					basketItem.Top = marginTop;
-					panel.Controls.Add(basketItem);
+					panelInBasket.Controls.Add(basketItem);
 					marginTop += basketItem.Height+20;
 				}
 			}
 
+		}
+
+
+		//Переделать это не в статик 
+		public static void ShowMainItemsData(List<ShopCardModel> data)
+		{
+			int marginLeft = 0;
+			int marginTop = 0;
+			panelInMainForms.Controls.Clear();
+			foreach (var card in data)
+			{
+				ShopCard shopCard = new ShopCard(card);
+				if (marginLeft >= panelInMainForms.Width)
+				{
+					marginLeft = 0;
+					marginTop += shopCard.Height + 20;
+				}
+				shopCard.Left = marginLeft;
+				shopCard.Top = marginTop;
+
+
+				panelInMainForms.Controls.Add(shopCard);
+				marginLeft += shopCard.Width + 20;
+			}
 		}
 	}
 }

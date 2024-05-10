@@ -50,5 +50,14 @@ namespace FinalProject.BL
 
 			return sumProduct;
 		}
+
+		public static bool ContainsInBasket(ShopCardModel model)
+		{
+			if (_basketShopData.Contains(model))
+			{
+				return true;
+			}
+			return false;
+		}
 	}
 }

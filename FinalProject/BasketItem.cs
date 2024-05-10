@@ -30,6 +30,7 @@ namespace FinalProject
 		{
 			basketShop.RemoveBasketItem(_shopCardModel);
 			DisplayElements.ShowBasketItem(basketShop.GetBasketData());
+			
 
 		}
 

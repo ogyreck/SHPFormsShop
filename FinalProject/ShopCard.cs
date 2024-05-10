@@ -28,19 +28,30 @@ namespace FinalProject
 			cardPicture.LoadAsync(_shopCardModel.image);
 
 			productForm = new ProductForm(_shopCardModel);
+			ChekBasket();
 
 		}
 
 		
 		private void BuyBtn_Click(object sender, EventArgs e)
 		{
-			bool stateBtn = basketShop.AddBasketItem(_shopCardModel);
-			if (stateBtn)
+			basketShop.AddBasketItem(_shopCardModel);
+			ChekBasket();
+
+		}
+
+		private void ChekBasket()
+		{
+			if (basketShop.ContainsInBasket(_shopCardModel))
 			{
 				BuyBtn.Text = "В корзине";
 				BuyBtn.BackColor = Color.Green;
 			}
-
+			else
+			{
+				BuyBtn.Text = "Купить";
+				BuyBtn.BackColor = Color.Red;
+			}
 		}
 
 		private void NameCard_Click(object sender, EventArgs e)

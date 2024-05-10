@@ -1,3 +1,4 @@
+using FinalProject.BL;
 using FinalProject.DAL;
 using FinalProject.Model;
 
@@ -6,14 +7,17 @@ namespace FinalProject
 	public partial class Form1 : Form
 	{
 		private List<ShopCardModel> _shopData = new List<ShopCardModel>();
-		private ShopCardModel test = new ShopCardModel();
+		
 
 		public Form1()
 		{
 
 			InitializeComponent();
+			DisplayElements.panelInMainForms = cardPanel;
 			GetShopData();
+			
 			cardPanel.AutoScroll = true;
+			
 		}
 
 
@@ -24,24 +28,7 @@ namespace FinalProject
 		}
 		private void btnLoad_Click(object sender, EventArgs e)
 		{
-			int marginLeft = 0;
-			int marginTop = 0;
-			foreach (var card in _shopData)
-			{
-				ShopCard shopCard = new ShopCard(card);
-				if (marginLeft >= cardPanel.Width)
-				{
-					marginLeft = 0;
-					marginTop += shopCard.Height + 20;
-				}
-				shopCard.Left = marginLeft;
-				shopCard.Top = marginTop;
-
-				cardPanel.Controls.Add(shopCard);
-				marginLeft += shopCard.Width + 20;
-			}
-
-
+			DisplayElements.ShowMainItemsData(_shopData);
 			btnLoad.Enabled = false;
 
 		}
@@ -51,11 +38,18 @@ namespace FinalProject
 
 		}
 
+		
+
 		private void btnOpenBasket_Click(object sender, EventArgs e)
 		{
 			BasketForm basketForm = new BasketForm();
-			basketForm.ShowDialog();
-			
+			basketForm.FormClosed += BasketForm_FormClosed;
+			basketForm.Show();
+		}
+
+		private void BasketForm_FormClosed(object? sender, FormClosedEventArgs e)
+		{
+			DisplayElements.ShowMainItemsData(_shopData);
 		}
 	}
 }

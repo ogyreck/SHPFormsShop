@@ -3,56 +3,64 @@
   "WorkspaceRootPath": "E:\\Git\\SHPFormsShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|e:\\git\\shpformsshop\\finalproject\\basketitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\basketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|e:\\git\\shpformsshop\\finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|e:\\git\\shpformsshop\\finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\bl\\repositoryshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\bl\\repositoryshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|e:\\git\\shpformsshop\\finalproject\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\bl\\basketshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\bl\\basketshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\bl\\displayelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\bl\\displayelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\basketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\basketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\basketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\shopcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\bl\\basketshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\bl\\basketshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\basketitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\bl\\repositoryshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\bl\\repositoryshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\basketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\basketform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\dal\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|E:\\Git\\SHPFormsShop\\finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F28FCB9-9769-41B8-97F1-8B6AE9FF2AC0}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -81,11 +85,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ProductForm.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs",
+              "RelativeToolTip": "FinalProject\\ProductForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:05:45.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketItem.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketItem.cs",
+              "RelativeDocumentMoniker": "FinalProject\\BasketItem.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketItem.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "FinalProject\\BasketItem.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:43:12.505Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayElements.cs",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BL\\DisplayElements.cs",
+              "RelativeDocumentMoniker": "FinalProject\\BL\\DisplayElements.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BL\\DisplayElements.cs",
+              "RelativeToolTip": "FinalProject\\BL\\DisplayElements.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwDcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:16:04.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ProductForm.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "FinalProject\\ProductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:29:01.969Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "FinalProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:13:47.026Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs",
+              "RelativeToolTip": "FinalProject\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:49:51.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketItem.cs",
+              "RelativeDocumentMoniker": "FinalProject\\BasketItem.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketItem.cs",
+              "RelativeToolTip": "FinalProject\\BasketItem.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAArwCAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:47:47.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasketForm.cs",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketForm.cs",
+              "RelativeDocumentMoniker": "FinalProject\\BasketForm.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketForm.cs",
+              "RelativeToolTip": "FinalProject\\BasketForm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:40:14.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketForm.cs",
+              "RelativeDocumentMoniker": "FinalProject\\BasketForm.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "FinalProject\\BasketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:56:52.227Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopCard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ShopCard.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "FinalProject\\ShopCard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:19:56.581Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopCard.cs",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ShopCard.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs",
+              "RelativeToolTip": "FinalProject\\ShopCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:20:06.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "basketShop.cs",
+              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BL\\basketShop.cs",
+              "RelativeDocumentMoniker": "FinalProject\\BL\\basketShop.cs",
+              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BL\\basketShop.cs",
+              "RelativeToolTip": "FinalProject\\BL\\basketShop.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:42:07.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BasketItem.Designer.cs",
               "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketItem.Designer.cs",
               "RelativeDocumentMoniker": "FinalProject\\BasketItem.Designer.cs",
@@ -98,82 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShopCard.cs [Design]",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs",
-              "RelativeDocumentMoniker": "FinalProject\\ShopCard.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs [Design]",
-              "RelativeToolTip": "FinalProject\\ShopCard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:19:56.581Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DisplayElements.cs",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BL\\DisplayElements.cs",
-              "RelativeDocumentMoniker": "FinalProject\\BL\\DisplayElements.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BL\\DisplayElements.cs",
-              "RelativeToolTip": "FinalProject\\BL\\DisplayElements.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:16:04.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasketItem.cs",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketItem.cs",
-              "RelativeDocumentMoniker": "FinalProject\\BasketItem.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketItem.cs",
-              "RelativeToolTip": "FinalProject\\BasketItem.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAjwCYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T20:47:47.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BasketForm.cs",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketForm.cs",
-              "RelativeDocumentMoniker": "FinalProject\\BasketForm.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketForm.cs",
-              "RelativeToolTip": "FinalProject\\BasketForm.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAWwBcAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T20:40:14.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs",
-              "RelativeToolTip": "FinalProject\\Form1.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAjwDgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:49:51.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BasketItem.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketItem.cs",
-              "RelativeDocumentMoniker": "FinalProject\\BasketItem.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketItem.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "FinalProject\\BasketItem.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T20:43:12.505Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "RepositoryShop.cs",
               "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BL\\RepositoryShop.cs",
               "RelativeDocumentMoniker": "FinalProject\\BL\\RepositoryShop.cs",
@@ -185,44 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "basketShop.cs",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BL\\basketShop.cs",
-              "RelativeDocumentMoniker": "FinalProject\\BL\\basketShop.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BL\\basketShop.cs",
-              "RelativeToolTip": "FinalProject\\BL\\basketShop.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:42:07.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShopCard.cs",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs",
-              "RelativeDocumentMoniker": "FinalProject\\ShopCard.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\ShopCard.cs",
-              "RelativeToolTip": "FinalProject\\ShopCard.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADgvxsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:20:06.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BasketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketForm.cs",
-              "RelativeDocumentMoniker": "FinalProject\\BasketForm.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "FinalProject\\BasketForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:56:52.227Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "BasketForm.Designer.cs",
               "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\BasketForm.Designer.cs",
               "RelativeDocumentMoniker": "FinalProject\\BasketForm.Designer.cs",
@@ -235,19 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs",
-              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "FinalProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:13:47.026Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Helper.cs",
               "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\DAL\\Helper.cs",
               "RelativeDocumentMoniker": "FinalProject\\DAL\\Helper.cs",
@@ -259,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\Program.cs",
               "RelativeDocumentMoniker": "FinalProject\\Program.cs",
@@ -271,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "FinalProject",
               "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\FinalProject.csproj",
               "RelativeDocumentMoniker": "FinalProject\\FinalProject.csproj",
@@ -283,24 +314,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAI0VAAAAAAAAAAAvwJsVAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-05-08T17:29:21.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "E:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs",
-              "RelativeDocumentMoniker": "FinalProject\\ProductForm.cs",
-              "ToolTip": "E:\\Git\\SHPFormsShop\\FinalProject\\ProductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "FinalProject\\ProductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T17:29:01.969Z"
             }
           ]
         }
