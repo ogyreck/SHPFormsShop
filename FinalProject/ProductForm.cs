@@ -33,7 +33,7 @@ namespace FinalProject
 		private void ProductForm_FormClosed(object? sender, FormClosedEventArgs e)
 		{
 		    ///Баг, при закрытии формы не обновляются главная страница 
-			//DisplayElements.ShowMainItemsData();
+			DisplayElements.ShowMainItemsData();
 		}
 
 		private void ProductForm_Shown(object? sender, EventArgs e)

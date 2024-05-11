@@ -26,7 +26,8 @@ namespace FinalProject
 		{
 			JsonData jsonData = new JsonData();
 			_shopData = await jsonData.GetData();
-			DisplayElements.ShowMainItemsData(_shopData);
+			DisplayElements.dataShop = _shopData;
+			DisplayElements.ShowMainItemsData();
 
 		}
 		private void btnLoad_Click(object sender, EventArgs e)
@@ -52,7 +53,7 @@ namespace FinalProject
 
 		private void BasketForm_FormClosed(object? sender, FormClosedEventArgs e)
 		{
-			DisplayElements.ShowMainItemsData(_shopData);
+			DisplayElements.ShowMainItemsData();
 		}
 
 		public List<ShopCardModel> GetCurrencyData()

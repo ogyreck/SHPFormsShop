@@ -12,6 +12,7 @@ namespace FinalProject.BL
 	{
 		public static Panel? panelInBasket {  get; set; }
 		public static Panel? panelInMainForms { get; set; }
+		public static List<ShopCardModel>? dataShop { get; set; }
 
 		public static void ShowBasketItem(List<ShopCardModel> basketItems)
 		{
@@ -38,12 +39,12 @@ namespace FinalProject.BL
 
 		}
 
-		public static void ShowMainItemsData(List<ShopCardModel> data)
+		public static void ShowMainItemsData()
 		{
 			int marginLeft = 0;
 			int marginTop = 0;
 			panelInMainForms.Controls.Clear();
-			foreach (var card in data)
+			foreach (var card in dataShop)
 			{
 				ShopCard shopCard = new ShopCard(card);
 				if (marginLeft >= panelInMainForms.Width)
